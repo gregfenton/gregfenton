@@ -1,5 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=gregfenton&theme=algolia&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
+ | GitHub Profile Trophies | 
+ | :-: |
+ | [![trophy](https://github-profile-trophy.vercel.app/?username=gregfenton&theme=algolia&column=5)](https://github.com/ryo-ma/github-profile-trophy) | 
 
 
 ---
